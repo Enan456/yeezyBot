@@ -1,0 +1,2 @@
+# yeezyBot
+auto cop bot
