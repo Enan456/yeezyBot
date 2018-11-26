@@ -1,2 +1,4 @@
-# yeezyBot
-auto cop bot
+# Yeezy Bot
+This is the code for my Yeezy Bot utilizing Python and Selenium which automatically buys products of Yeezy Supply upon new arrival. This was created for Central Hype store in  Naperville, Illinois.  It also helped me to earned a score of 5 in AP Computer Science Principles as Create submission project. It creates an instance of firefox and navigates it. Here is a step by step explanation of the code: https://drive.google.com/open?id=1vAh80_kNU6FGBwv2stFLoWWU7_eqp8MQ
+
+#My commit history is not descriptive, this used to be a private project so I didn't care, also my second project but first with version control
